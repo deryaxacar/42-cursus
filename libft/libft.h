@@ -6,14 +6,13 @@
 /*   By: deryacar <deryacar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/12 21:31:31 by deryacar          #+#    #+#             */
-/*   Updated: 2023/07/13 13:16:26 by deryacar         ###   ########.fr       */
+/*   Updated: 2023/12/04 20:41:20 by deryacar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
 
-# include <unistd.h>
 # include <stdlib.h>
 
 typedef struct s_list

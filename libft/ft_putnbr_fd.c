@@ -6,11 +6,12 @@
 /*   By: deryacar <deryacar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/12 21:31:31 by deryacar          #+#    #+#             */
-/*   Updated: 2023/07/13 13:14:38 by deryacar         ###   ########.fr       */
+/*   Updated: 2023/12/04 20:39:12 by deryacar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include <unistd.h>
 
 void	ft_putnbr_fd(int n, int fd)
 {

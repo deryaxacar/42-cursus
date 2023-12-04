@@ -48,7 +48,7 @@ $(NAME): $(OBJS)
 	@$(CC) $(CFLAGS) $(OBJS) $(LIBFTM) -o $(NAME)
 	@echo "\n\033[1;32mPush_swap is ready ✅\033[0m\n"
 
-all: $(NAME) $(BONUS_NAME)
+all: $(NAME)
 	@echo "\n\033[1;32mAll files compiled successfully ✅\033[0m\n"
 
 bonus: $(BONUS_OBJS) 
